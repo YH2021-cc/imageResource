@@ -1,1 +1,1 @@
-# inageResource
+# imageResource
